@@ -2,10 +2,10 @@
 
 Logoff-all-environments 
 
-Great for when some idiot did not change the default GPO to kickusers out after X time. You know, after they change thier 
-password, and one of the machines keeps locking your shit out, because someone at microsoft thought it would be a good
-idea to leave the default session up for years. No shit, I found a user still logged on to a box for over a year, after we
-fired him, incidentally, this was the same man who didn't set GPO to kick users out after X time. 
+Great for when someone has forgottten to change the default GPO to kickusers out after X time. You know, after they change thier 
+password, and one of the machines keeps locking your users out, because someone at microsoft thought it would be a good
+idea to leave the default session up for years. I one found a user still logged on to a box for over a year, after he had
+ departed the company. Incidentally, this was the same person who didn't set GPO to kick users out after X time. 
 
 
 Written by Jonathan W.
